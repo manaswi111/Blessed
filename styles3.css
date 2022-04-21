@@ -1,0 +1,56 @@
+h1 {
+    color: grey;
+    width: 20%;
+    margin: 30px auto 0 auto;
+    font-family:  'Sacramento', cursive;
+}
+
+h2{
+    font-family:'EB Garamond', serif;
+}
+
+h3{
+    font-family:'EB Garamond', serif;
+}
+
+div {
+    background-color: bisque;
+
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family:'Merriweather Sans', sans-serif;
+    background-color: bisque;
+}
+
+.top-container {
+    background-color: bisque;
+
+
+}
+
+.middle-container 
+   
+
+
+
+.bottom-container 
+
+
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: relative;
+    left: 200px;
+    top: 30px;
+
+}
+
+.bottom-cloud {
+    position: absolute;
+}
