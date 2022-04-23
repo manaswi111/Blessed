@@ -15,7 +15,35 @@ h2 {
 h3 {
     font-family: 'EB Garamond', serif;
     color: grey;
+
 }
+
+
+
+.skill-row {
+    width: 65%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.html {
+    border-radius:50% ;
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.css {
+    border-radius:50% ;
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+
+}
+
+
 
 div {
     background-color: bisque;
@@ -30,7 +58,7 @@ hr {
     width: 5%;
 }
 
-.Pro{
+.Pro {
     text-decoration: underline;
 }
 
